@@ -27,6 +27,9 @@ torno da revisão da Tarifa Externa Comum (2019-2022)". Minha área de interesse
 </div>
 
 
+
+
+
 <div>
 <a href="https://github.com/brudomingues">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brudomingues&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brudomingues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
