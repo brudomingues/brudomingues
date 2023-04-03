@@ -8,10 +8,12 @@ torno da revisão da Tarifa Externa Comum (2019-2022)". Minha área de interesse
 
 
 - ⚡ Fun facts: Amo ler 📖 e amo assistir esportes no geral, principalmente futebol ⚽
-- 🌎 Falo português, inglês e espanhol e estou aprendendo alemão 🇧🇷 🇺🇸 🇪🇸 🇩🇪
+- 🌎 Falo português, inglês e espanhol e estou aprendendo alemão 🌎
 
 - Contatos:
+
 <a href = "mailto:contato@bruna.domingues01@unesp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <a href="https://www.linkedin.com/in/bruna-domingues-6b3682214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
