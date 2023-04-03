@@ -3,7 +3,7 @@
 Eu me chamo Bruna Domingues, e sou mais conhecida como Molotov na universidade 😄 Estou no meu quarto ano de Relações Internacionais pela Unesp Franca e sou formada em Técnico de Marketing pela ETEC.
 
 
-Atualmente, faço parte do grupo de pesquisa LANTRI (Laboratório de Novas Tecnologias em Relações Internacionais), desenvolvendo códigos em Python e realizando trabalhos com hardwares e softwares voltados para projetos de pesquisas dentro do grupo. Além disso, também faço parte do NETPDH (Núcleo de Estudos da Tutela Penal e Educação em Direitos Humanos). 
+Atualmente, faço parte do grupo de pesquisa LANTRI (Laboratório de Novas Tecnologias em Relações Internacionais), desenvolvendo códigos em Python e realizando trabalhos com hardwares e softwares voltados para projetos de pesquisas dentro do grupo. Além disso, também faço parte do grupo de extensão NETPDH (Núcleo de Estudos da Tutela Penal e Educação em Direitos Humanos). 
 
 Sou pesquisadora bolsista (PIBIC/Cnpq) com o tema "A Política Externa Brasileira e a flexibilização do Mercosul: as pressões domésticas em
 torno da revisão da Tarifa Externa Comum (2019-2022)". Minha área de interesse é voltada para política externa brasileira e América do Sul e Latina 📒
