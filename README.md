@@ -1,6 +1,6 @@
 ### ✨ Olá 👋
 
-Eu me chamo Bruna Domingues, e sou mais conhecida como Molotov na universidade 😄 Estou no meu quarto ano de Relações Internacionais pela Unesp Franca e sou formada em Técnico de Marketing pela ETEC.
+Eu me chamo Bruna Domingues, 😄 Sou formada em Relações Internacionais pela Unesp Franca e em Técnico de Marketing pela ETEC.
 
 <div align="center">
 <img src="https://github.com/brudomingues/brudomingues/blob/44c3b1f2fcf3509768319913ba89f92b5506f15b/to%20the%20stars%20who%20listen%20%E2%80%94%20and%20the%20dreams%20that%20are%20answered.png" width="700px" />
@@ -8,9 +8,9 @@ Eu me chamo Bruna Domingues, e sou mais conhecida como Molotov na universidade �
 
 
 
-Atualmente, faço parte do grupo de pesquisa LANTRI (Laboratório de Novas Tecnologias em Relações Internacionais), desenvolvendo códigos em Python e realizando trabalhos com hardwares e softwares voltados para projetos de pesquisas dentro do grupo. Além disso, também faço parte do grupo de extensão NETPDH (Núcleo de Estudos da Tutela Penal e Educação em Direitos Humanos). 
+Fiz parte do grupo de pesquisa LANTRI (Laboratório de Novas Tecnologias em Relações Internacionais), desenvolvendo códigos em Python e realizando trabalhos com hardwares e softwares voltados para projetos de pesquisas dentro do grupo. Além disso, também fiz parte do grupo de extensão NETPDH (Núcleo de Estudos da Tutela Penal e Educação em Direitos Humanos). 
 
-Sou pesquisadora bolsista (PIBIC/Cnpq) com o tema "A Política Externa Brasileira e a flexibilização do Mercosul: as pressões domésticas em
+Fui pesquisadora bolsista (PIBIC/Cnpq) com o tema "A Política Externa Brasileira e a flexibilização do Mercosul: as pressões domésticas em
 torno da revisão da Tarifa Externa Comum (2019-2022)". Minha área de interesse é voltada para política externa brasileira e América do Sul e Latina 📒
 
 
